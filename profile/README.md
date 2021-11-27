@@ -1,6 +1,10 @@
 # Selam Herkese 👋
-## Ödevlerimizi yüklerken isimsoyisim hafta olarak yüklemeniz gerekmektedir.
-- Örneğin; **"MCanÇölgeçen_Week1_HW2"** şekilde yükleyebilirsiniz.
+## Ödevlerimizi yüklerken kendi adınıza bir Repo oluşturup bu repo içerinde Week1, week2, week3 şeklinde klasörlere ödevlerinizi atmanız düzen açısından daha iyi olucaktır.
+- Örneğin; **"MCanÇölgeçen_Homework"** şekilde yükleyebilirsiniz.
+    - Week1
+       - 1. Homework  
+    - Week2
+    - Week3  
 
 
 - [x] 1. Hafta :tada::
